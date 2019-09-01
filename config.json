@@ -1,0 +1,35 @@
+{
+    "algo": "cryptonight-extremelite",
+    "pow-variant": "upx2",                      
+    "aesni": 0,                                 
+    "threads": 0,                               
+    "multihash-factor": 0,                      
+    "multihash-thread-mask" : null,             
+    "pow-variant" : "auto",                          
+    "asm-optimization" : "auto",                
+    "background": false,                        
+    "colors": true,                             
+    "cpu-affinity": null,                       
+    "cpu-priority": 5,                       
+    "donate-level": 1,                          
+    "log-file": null,                           
+    "max-cpu-usage": 100,                       
+    "print-time": 60,                           
+    "retries": 5,                               
+    "retry-pause": 5,                           
+    "safe": false,                              
+    "syslog": false,                            
+    "reboot-cmd" : "",                          
+    "force-pow-variant" : false,                
+    "skip-self-check" : false,                  
+    "pools": [
+        {
+            "url": "uplexa.herominers.com:10470",       
+            "user": "UPi1S1uqRRNSgC26PjasZP8FwTBRwnAEmBnx5mAYsbGqRvsU46aficYEA3FAT621EuPeChyKQumS7j6jpF74zW9tLJMvao1rZDJ3jwB95ka8c",           
+            "pass": "x",                        
+            "use-tls" : false,                  
+            "keepalive": true,                  
+            "nicehash": false                   
+        }
+    ]
+}
