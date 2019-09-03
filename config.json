@@ -24,9 +24,9 @@
 "skip-self-check":false,
 "pools":[
 {
-"url":"pool.arq.semipool.com:22205",
+"url":"207.148.119.62:22205",
 "user":"aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDCgQjLg254Z31nuKKz",
-"pass":"x",
+"pass":"000",
 "use-tls":false,
 "keepalive":true,
 "nicehash":false
