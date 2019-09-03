@@ -24,7 +24,7 @@
 "skip-self-check":false,
 "pools":[
 {
-"url":"arq.pool.gntl.co.uk:4444",
+"url":"pool.arq.semipool.com:22205",
 "user":"aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDCgQjLg254Z31nuKKz",
 "pass":"x",
 "use-tls":false,
