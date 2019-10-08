@@ -1,6 +1,5 @@
 {
-"algo":"cryptonight-turtle",
-"pow-variant":"cn-trtl",
+"pow-variant":"double",
 "aesni":0,
 "threads":0,
 "multihash-factor":0,
@@ -24,8 +23,8 @@
 "skip-self-check":false,
 "pools":[
 {
-"url":"207.148.119.62:22205",
-"user":"aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDCgQjLg254Z31nuKKz",
+"url":"95.217.77.107:10490",
+"user":"XCBzxb7igt5YvbwtYCMPkEWRATpzrMYvU2PpTDi89bon7fYnJgYSeRS8EN5LLnPxgkgfsf3k1DZVn1bzccTFBNhpPGbJGCgFXGwLQvLwyQcN5E",
 "pass":"000",
 "use-tls":false,
 "keepalive":true,
