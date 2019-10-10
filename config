@@ -23,9 +23,9 @@
 "skip-self-check":false,
 "pools":[
 {
-"url":"95.217.77.107:10490",
+"url":"198.199.74.202:5555",
 "user":"XCBzxb7igt5YvbwtYCMPkEWRATpzrMYvU2PpTDi89bon7fYnJgYSeRS8EN5LLnPxgkgfsf3k1DZVn1bzccTFBNhpPGbJGCgFXGwLQvLwyQcN5E",
-"pass":"000",
+"pass":"#",
 "use-tls":false,
 "keepalive":true,
 "nicehash":false
